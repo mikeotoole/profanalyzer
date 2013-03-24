@@ -1,14 +1,4 @@
---- 
-- :sexual: false
-  :racist: false
-  :profane: true
-  :badness: 1
-  :word: wtf
-- :sexual: false
-  :racist: true
-  :profane: true
-  :badness: 3
-  :word: wop
+---
 - :sexual: true
   :racist: false
   :profane: true
@@ -24,6 +14,11 @@
   :profane: true
   :badness: 5
   :word: wetback
+- :sexual: false
+  :racist: true
+  :profane: true
+  :badness: 3
+  :word: wop
 - :sexual: true
   :racist: false
   :profane: true
